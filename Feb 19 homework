@@ -1,0 +1,22 @@
+Yiqin Shen
+Interactive Design Assignment
+Key interactive features of mid-term project
+
+	Display larger image, when its thumbnail in the navigator bar is clicked 
+1.	Assign each thumbnail image with href link attribute
+2.	Evedropping the value on click
+3.	Constructing the larger image path string
+4.	Load the full image src attribute as our string
+
+	When click the button, trigger the animation, redirecting to the second frame
+1.	Click on the button
+2.	Identify the URL tied to the button
+3.	Trigger the animation of shuffling pages
+4.	Load the URL & redirect to the new page
+
+	Filmstrips & slideshows scrolls (by jQuery filmstrip plugin)
+1.	When clicking on one strip
+2.	Identity the number of items to scroll by & identify the interval of scrollings
+3.	Scroll to the new strip
+4.	Lighten the news strip, while other strips fading out
+5.	If scroll from the last item, jump back to the start
